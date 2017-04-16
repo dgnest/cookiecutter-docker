@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # -*- coding: utf-8 -*-
 
-export PROJECT_NAME=cookiecutter-go-project
+export PROJECT_NAME=cookiecutter-docker
 export PYTHON_VERSION=3.6.0
 export PYENV_NAME="${PROJECT_NAME}"
 
