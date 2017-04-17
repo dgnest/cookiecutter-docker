@@ -1,6 +1,6 @@
 # ~/.tmuxinator/{{cookiecutter.repo_name}}.yml
 name: {{cookiecutter.repo_name}}
-root: <%= ENV["PROJECTS"] %>/ansible/roles/{{cookiecutter.repo_name}}
+root: <%= ENV["PROJECTS"] %>/docker/{{cookiecutter.repo_name}}
 tmux_options: -2
 # Optional tmux socket
 # socket_name: foo
